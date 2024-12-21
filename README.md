@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irem01ceren
-- 👀 I’m interested fronted
+- 👀 I’m interested frontend
 - 🌱 I’m currently learning frontend web gelistirme
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me iremcerendavarci12@gmail.com
